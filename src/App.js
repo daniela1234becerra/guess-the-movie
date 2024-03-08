@@ -4,6 +4,7 @@ import MovieCard from './MovieCard';
 import GuessInput from './GuessInput';
 import LifeCounter from './LifeCounter';
 import ScoreCounter from './ScoreCounter';
+//holis
 import './App.css'
 
 const movies = [
