@@ -1,0 +1,11 @@
+.todo_container{
+    display: flex;
+    width: 410px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.todo a{
+    text-decoration: none;
+}

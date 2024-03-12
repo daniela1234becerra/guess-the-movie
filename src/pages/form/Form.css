@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(241, 241, 241);
+}
+
+.container div{
+    display: flex;
+    flex-direction: column;  
+}
+
+input{
+    width: 410px;
+    border-radius: 10px;
+    height: 40px;
+    border: none;
+    outline: none;
+    padding: 5px;
+    margin-bottom: 15px;
+    background-color: rgb(241, 241, 241);
+}
+
+h2{
+    margin-bottom: 15px;
+}
+
+.description input{
+    height: 200px;
+}
+
+.container div h2{
+    font-size: 22px;
+}
+
+.checkbox input{
+    width: 15px;
+}
+
+label{
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
